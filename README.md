@@ -1,0 +1,2 @@
+# rudyteanode
+testnet tea
